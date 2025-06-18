@@ -1,0 +1,8 @@
+body{
+    background-image: url(./img.jpg);
+    backdrop-filter: blur(10px);
+}
+
+.cardouter{
+    padding: 25px;
+}
